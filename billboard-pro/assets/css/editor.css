@@ -1,0 +1,8 @@
+/* Block editor styles so content looks like the front end. */
+body { font-family: "Inter", system-ui, -apple-system, "Segoe UI", Roboto, sans-serif; font-size: 17px; line-height: 1.65; color: #3b414c; }
+h1, h2, h3, h4, h5, h6 { font-family: "Manrope", "Inter", system-ui, sans-serif; color: #11141a; letter-spacing: -.02em; line-height: 1.15; font-weight: 800; }
+a { color: #11141a; text-decoration-color: #ff5a1f; text-decoration-thickness: 2px; }
+blockquote { border-left: 4px solid #ff5a1f; padding-left: 24px; }
+.key-takeaways, .callout { background: #f4f5f7; border-left: 4px solid #ff5a1f; padding: 22px 26px; }
+.answer-box { background: #0a0c10; color: #e5e7eb; padding: 24px 28px; border-radius: 10px; }
+table th { background: #f4f5f7; }
